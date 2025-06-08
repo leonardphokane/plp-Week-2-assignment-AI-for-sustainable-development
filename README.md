@@ -25,9 +25,9 @@ Food insecurity and climate change threaten global agriculture. Many farmers lac
 ## 📲 Deployment:
 -	Mobile & Web App for farmers to access insights.
 -	IoT integration for smart irrigation control.
-🔄 Continuous Learning:
+## 🔄 Continuous Learning:
 -	Reinforcement learning adapts irrigation strategies based on real-world feedback.
 -	NLP-based chatbot provides instant farming advice via text or voice.
 ## Impact on Global Challenges
-🌱 Food Security: Helps farmers increase crop yields sustainably. 🌍 Climate Action: Reduces water waste and prevents over-farming. 💡 Economic Growth: Empowers farmers with AI-driven decision-making, leading to better productivity and profitability.
+🌱 **Food Security**: Helps farmers increase crop yields sustainably. 🌍 **Climate Action**: Reduces water waste and prevents over-farming. 💡 **Economic Growth**: Empowers farmers with AI-driven decision-making, leading to better productivity and profitability.
 
