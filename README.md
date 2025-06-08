@@ -16,18 +16,18 @@ Food insecurity and climate change threaten global agriculture. Many farmers lac
 -	AI learns the optimal irrigation schedules by adjusting water use based on soil moisture levels and weather predictions.
 -	Balances crop growth with minimal water wastage, reducing the ecological footprint.
 ## Implementation Plan
-🚀 Data Collection:
+## 🚀 Data Collection:
 -	Satellite imagery, weather patterns, and open-source agricultural datasets.
 -	Farmer surveys for localized insights.
-💡 Model Training:
+## 💡 Model Training:
 -	Use TensorFlow/PyTorch for deep learning models.
 -	Train the crop recommendation system with supervised learning using labeled agricultural datasets.
-📲 Deployment:
-•	Mobile & Web App for farmers to access insights.
-•	IoT integration for smart irrigation control.
+## 📲 Deployment:
+-	Mobile & Web App for farmers to access insights.
+-	IoT integration for smart irrigation control.
 🔄 Continuous Learning:
-•	Reinforcement learning adapts irrigation strategies based on real-world feedback.
-•	NLP-based chatbot provides instant farming advice via text or voice.
-Impact on Global Challenges
+-	Reinforcement learning adapts irrigation strategies based on real-world feedback.
+-	NLP-based chatbot provides instant farming advice via text or voice.
+## Impact on Global Challenges
 🌱 Food Security: Helps farmers increase crop yields sustainably. 🌍 Climate Action: Reduces water waste and prevents over-farming. 💡 Economic Growth: Empowers farmers with AI-driven decision-making, leading to better productivity and profitability.
 
