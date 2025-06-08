@@ -31,33 +31,6 @@ Food insecurity and climate change threaten global agriculture. Many farmers lac
 ## Impact on Global Challenges
 🌱 **Food Security**: Helps farmers increase crop yields sustainably. 🌍 **Climate Action**: Reduces water waste and prevents over-farming. 💡 **Economic Growth**: Empowers farmers with AI-driven decision-making, leading to better productivity and profitability.
 
-Dataset Simulation & Model Training
-We need real agricultural data to build accurate AI models. Here’s how we can approach it:
-
-1. Data Collection Sources
-We can collect data from:
-
-Government Agricultural Databases (e.g., FAO, NASA, USDA crop reports).
-
-Satellite Imagery for climate and soil conditions.
-
-IoT Sensors tracking soil moisture and temperature levels.
-
-Farmers’ Reports via mobile surveys and chatbots.
-
-Dataset Simulation & Model Training
-We need real agricultural data to build accurate AI models. Here’s how we can approach it:
-
-1. Data Collection Sources
-We can collect data from:
-
-Government Agricultural Databases (e.g., FAO, NASA, USDA crop reports).
-
-Satellite Imagery for climate and soil conditions.
-
-IoT Sensors tracking soil moisture and temperature levels.
-
-Farmers’ Reports via mobile surveys and chatbots.
 
 ## Dataset Simulation & Model Training
 We need **real agricultural data** to build accurate AI models. Here’s how we can approach it:
