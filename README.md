@@ -1,8 +1,8 @@
-AI Solution: "AgriSmart – AI for Sustainable Agriculture"
+## AI Solution: "AgriSmart – AI for Sustainable Agriculture"
 UN SDG Addressed: Zero Hunger (SDG 2) & Climate Action (SDG 13) AI Concepts Used: Supervised Learning, Neural Networks, NLP, Reinforcement Learning
-Problem Statement
+## Problem Statement
 Food insecurity and climate change threaten global agriculture. Many farmers lack access to real-time insights on soil health, weather predictions, and pest control, leading to lower crop yields. AgriSmart is an AI-powered system that helps farmers optimize food production while minimizing environmental impact.
-Core Features of AgriSmart
+## Core Features of AgriSmart
 ✅ AI-Powered Crop Recommendation (Supervised Learning)
 •	Uses satellite images and historical climate data to recommend the best crops for a region.
 •	Trained on labeled datasets of soil types, crop yields, and rainfall patterns.
